@@ -4,7 +4,7 @@
 March 21,2021
 
 ### Project Title
-Bikeshare
+Information on Bikeshare
 
 ### Description
 This project is to explore data related to bike share for three major cities in the United states - Chicago, New York City, and Washington. it uses bikeshare.py to take raw input to create an interactive experience.

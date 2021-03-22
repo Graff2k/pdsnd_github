@@ -18,7 +18,7 @@ def get_filters(city, month, day):
     while True:
         city = input("Write a city name: Chicago, New York City or Washington!").lower()
         if city not in CITY_DATA:
-            print("\nInvalid answer\n")
+            print("\nInvalid answer. Please Choose again.\n")
             continue   
         else:
             break
